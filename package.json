@@ -11,6 +11,8 @@
     "seed": "ts-node src/db/seed.ts"
   },
   "dependencies": {
+    "@types/node": "^20.12.7"
+    "typescript": "^5.4.5",
     "bcryptjs": "^2.4.3",
     "cors": "^2.8.5",
     "dotenv": "^16.4.5",
